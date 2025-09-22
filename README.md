@@ -9,7 +9,7 @@ Este repositório foi criado para armazenar a prática de criação e manipulaç
 
 ### 🛠 Tecnologias Utilizadas
 - **SQL:** Linguagem de consulta para criação e manipulação do banco de dados.
-- **Modelo Entidade-Relacionamento (MER):** Utilizado para o projeto conceitual do banco de dados.
+- **MySQL Workbench:** A ferramenta utilizada para o projeto, modelagem e execução dos scripts SQL.
 
 ---
 
