@@ -9,7 +9,8 @@ Este repositório foi criado para armazenar a prática de criação e manipulaç
 
 ### 🛠 Tecnologias Utilizadas
 - **SQL:** Linguagem de consulta para criação e manipulação do banco de dados.
-- **MySQL Workbench:** A ferramenta utilizada para o projeto, modelagem e execução dos scripts SQL.
+- **MySQL Workbench:** A ferramenta utilizada para a modelagem e execução dos scripts SQL.
+- **draw.io:** Ferramenta utilizada para a criação do diagrama de Entidade-Relacionamento.
 
 ---
 
